@@ -19,3 +19,14 @@ This project (Project Cavalier) must remain completely isolated from all other p
 - Project files, code snippets, and implementation details are confidential
 - Do not use this project's data to inform responses in other projects
 - Treat this workspace as a completely separate, isolated environment
+
+## ITI Shared Library
+
+The ITI Shared Library provides cross-platform reusable code for all ITI projects.
+
+**Location:** `/Users/peterwesterman/Cursor/ITI/shared/`
+**Documentation:** `/Users/peterwesterman/Cursor/ITI/shared/README.md`
+**Quick Reference:** `/Users/peterwesterman/Cursor/ITI/shared/QUICK-START.md`
+**Full Catalog:** `/Users/peterwesterman/Cursor/ITI/shared/CATALOG.md`
+
+Platforms covered: WordPress (11 files), Desktop JS/TS (6 files), iOS/macOS Swift (2 files), Python (2 files), Rust (1 file), plus 7 architectural pattern guides and 3 project starter templates.
